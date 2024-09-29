@@ -1,0 +1,14 @@
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/Task-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/Task-2.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/Task-2.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/Task-2.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Homework/Task-2/bin/Debug/net8.0/Task-2
+/Users/aysenuroruccu/Desktop/Homework/Task-2/bin/Debug/net8.0/Task-2.deps.json
+/Users/aysenuroruccu/Desktop/Homework/Task-2/bin/Debug/net8.0/Task-2.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Homework/Task-2/bin/Debug/net8.0/Task-2.dll
+/Users/aysenuroruccu/Desktop/Homework/Task-2/bin/Debug/net8.0/Task-2.pdb
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/Task-2.dll
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/refint/Task-2.dll
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/Task-2.pdb
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/Task-2.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Homework/Task-2/obj/Debug/net8.0/ref/Task-2.dll

@@ -1,0 +1,14 @@
+/Users/aysenuroruccu/Desktop/Homework/Task-1/bin/Debug/net8.0/Task-1
+/Users/aysenuroruccu/Desktop/Homework/Task-1/bin/Debug/net8.0/Task-1.deps.json
+/Users/aysenuroruccu/Desktop/Homework/Task-1/bin/Debug/net8.0/Task-1.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Homework/Task-1/bin/Debug/net8.0/Task-1.dll
+/Users/aysenuroruccu/Desktop/Homework/Task-1/bin/Debug/net8.0/Task-1.pdb
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/Task-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/Task-1.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/Task-1.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/Task-1.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/Task-1.dll
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/refint/Task-1.dll
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/Task-1.pdb
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/Task-1.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Homework/Task-1/obj/Debug/net8.0/ref/Task-1.dll
